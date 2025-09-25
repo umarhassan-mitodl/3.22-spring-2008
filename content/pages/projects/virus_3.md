@@ -38,7 +38,7 @@ The authors do nanoindentaion of the bacteriophage φ 29 shells and then model t
 
 \[1\] Ivanovska, I. L., P. J. Pablo, B. Ibarra, G. Sgalari, F. C. MacKintosh, J. L. Carrascosa, C. F. Schmidt, and G. J. L. Wuite. "Bacteriophage Capsids: Tough Nanoshells with Complex Elastic Properties." _PNAS_ 101 (2004): 7600-7605.
 
-\[2\] {{% resource_link "9d912446-a269-44f4-a4cf-ac75e80c07a8" "Micro Cantilever" %}}.
+\[2\] [Micro Cantilever](http://probe.olympus-global.com/en/spec/).
 
 \[3\] Cox, H. L. _The Buckling of Cylindrical Plates and Shells_. New York, NY: Pergamon, 1963, pp. 71-72.
 

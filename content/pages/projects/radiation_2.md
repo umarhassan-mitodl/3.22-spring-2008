@@ -55,7 +55,7 @@ In the voids, there could be as many as two vacancies per unit cell, as a BCC un
 
 \[1\] Jitsukawa, S., et al. "Recent Results of the Reduced Activation Ferritic/Martensitic Steel Development." _Journal of Nuclear Materials_ 329-333 (2004): 39-46.
 
-\[2\] {{% resource_link "21bab8a9-7272-4ea1-8fbb-ba4006b67252" "MatWeb" %}}.
+\[2\] [MatWeb](http://www.matweb.com/).
 
 \[3\] Matthews, J. R., and M. W. Finnis. "Irradiation Creep Models - An Overview." _Journal of Nuclear Materials_ 159 (1988): 257-285.
 

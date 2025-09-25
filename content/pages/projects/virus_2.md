@@ -71,7 +71,7 @@ This trend indicates that because there exists an equilibrium separation between
 
 \[2\] Buenemann, M., and P. Lenz. "Mechanical Limits of Viral Capsids." _PNAS_ 104 (2007): 9925-9930.
 
-\[3\] {{% resource_link "e258bd48-6f56-4749-81dc-673d2ee1d0df" "Wikimedia Commons" %}}.
+\[3\] [Wikimedia Commons](http://upload.wikimedia.org/wikipedia/commons/9/93/Argon_dimer_potential_and_Lennard-Jones.png).
 
   
   

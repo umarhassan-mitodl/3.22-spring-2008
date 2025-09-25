@@ -168,7 +168,7 @@ The TEM images and a calculation of stress under the indenter points to the fact
   
  
 
-Image removed due to copyright restrictions. Please see Supplementary Fig. 2 in \[[5](#ref)\]. ({{% resource_link "c7536d58-feca-4725-aef3-9be043359129" "PDF" %}})
+Image removed due to copyright restrictions. Please see Supplementary Fig. 2 in \[[5](#ref)\]. ([PDF](http://www.nature.com/nmat/journal/v5/n9/extref/nmat1714-s2.pdf))
 
   
  

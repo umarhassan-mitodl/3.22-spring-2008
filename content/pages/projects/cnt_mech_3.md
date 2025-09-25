@@ -75,7 +75,7 @@ In the case of Gurgoze, et al. \[[5](#References)\] the following physical model
  
 
 {{< resource "20f38e8a-2e8a-0bd6-3842-1713ba8e9268" >}}  
-Courtesy Elsevier, Inc., {{% resource_link "ed5599b5-9414-4b0f-9a21-86104b64d2dc" "Science Direct" %}}. Used with permission.
+Courtesy Elsevier, Inc., [Science Direct](http://www.sciencedirect.com/). Used with permission.
 
   
  
@@ -86,7 +86,7 @@ Along with the corresponding phenomenological model:
  
 
 {{< resource "f9639e35-215d-856b-55a2-1da269d769b7" >}}  
-Courtesy Elsevier, Inc., {{% resource_link "ed5599b5-9414-4b0f-9a21-86104b64d2dc" "Science Direct" %}}. Used with permission.
+Courtesy Elsevier, Inc., [Science Direct](http://www.sciencedirect.com/). Used with permission.
 
   
  

@@ -19,7 +19,7 @@ _(b) Aldo's Fig. 3 \[[1](#Reference)\] shows relation between effective creep st
 
 {{< resource "101ab719-f4ed-fe49-e7ff-dd8da057cf89" >}}
 
-Courtesy of Elsevier, Inc., {{% resource_link "ed5599b5-9414-4b0f-9a21-86104b64d2dc" "Science Direct" %}}. Used with permission.
+Courtesy of Elsevier, Inc., [Science Direct](http://www.sciencedirect.com/). Used with permission.
 
   
  
