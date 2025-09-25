@@ -6,6 +6,8 @@ description: "Example of student work: final presentation on the role of water i
 file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/a847b0ace72cc9abb30f7e5810ed650d_fiber_optic_pres.pdf
 file_size: 108496
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
