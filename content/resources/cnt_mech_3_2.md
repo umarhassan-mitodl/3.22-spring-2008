@@ -4,6 +4,8 @@ description: Image accompanying a course assignment.
 file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/83d0f4dd8ecaf0e2c2490553c6b27e30_cnt_mech_3_2.jpg
 file_size: 3871
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

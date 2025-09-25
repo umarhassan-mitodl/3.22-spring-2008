@@ -4,6 +4,8 @@ description: Image accompanying a course assignment.
 file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/053635d9935a162146591bce93f194d8_thinfilms_2_1.jpg
 file_size: 6257
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
