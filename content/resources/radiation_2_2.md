@@ -4,8 +4,6 @@ description: Image accompanying a course assignment.
 file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/3551d01615b784f1f55ea06516ff03c4_radiation_2_2.jpg
 file_size: 3887
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -22,7 +20,7 @@ Group Members
  
 
 Image removed due to copyright restrictions.  
-Please see: [Kohlenstoffnanoroehre Animation](http://en.wikipedia.org/wiki/File:Kohlenstoffnanoroehre_Animation.gif)
+Please see: {{% resource_link "2c480a46-9f7e-460b-8fa1-1bcc049e5b51" "Kohlenstoffnanoroehre Animation" %}}
 
   
  

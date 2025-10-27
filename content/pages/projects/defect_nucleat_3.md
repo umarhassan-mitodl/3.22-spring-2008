@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -170,7 +168,7 @@ The TEM images and a calculation of stress under the indenter points to the fact
   
  
 
-Image removed due to copyright restrictions. Please see Supplementary Fig. 2 in \[[5](#ref)\]. ([PDF](http://www.nature.com/nmat/journal/v5/n9/extref/nmat1714-s2.pdf))
+Image removed due to copyright restrictions. Please see Supplementary Fig. 2 in \[[5](#ref)\]. ({{% resource_link "39f329a8-610e-4b79-9079-da00b83e42b1" "PDF" %}})
 
   
  

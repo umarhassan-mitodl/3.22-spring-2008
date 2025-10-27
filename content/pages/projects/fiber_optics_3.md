@@ -44,7 +44,7 @@ The fracture stresses in Table 1 \[[2](#ref)\] were obtained using a tensile tes
 
 {{< resource "c78f9ebd-3c58-13f5-3d79-5d0f20b40628" >}}
 
-Courtesy of Elsevier, Inc., [Science Direct](http://www.sciencedirect.com/). Used with permission.
+Courtesy of Elsevier, Inc., {{% resource_link "fac521ed-265b-44fc-9a7a-68ff099ffba7" "Science Direct" %}}. Used with permission.
 
   
  
@@ -56,7 +56,7 @@ The point of using an indenter in this experiment is to be able to make cracks o
 
 {{< resource "746c50b2-e9cd-6ccd-3392-4703c0168793" >}}
 
-Courtesy of Elsevier, Inc., [Science Direct](http://www.sciencedirect.com/). Used with permission.
+Courtesy of Elsevier, Inc., {{% resource_link "fac521ed-265b-44fc-9a7a-68ff099ffba7" "Science Direct" %}}. Used with permission.
 
   
  
@@ -68,7 +68,7 @@ Let's now suppose that they performed another experiment, where they indented th
   
  
 
-Image removed due to copyright restrictions. Please see slide 28 in Kim, Do Kyung. "Nanoindentation: Lecture 1 Basic Principles." ([PPT](http://www.slideshare.net/viet4777/nano-indentation-lecture1))
+Image removed due to copyright restrictions. Please see slide 28 in Kim, Do Kyung. "Nanoindentation: Lecture 1 Basic Principles." ({{% resource_link "4cfb0f33-b57c-4d0c-a9e3-df1f84cc7917" "PPT" %}})
 
   
  

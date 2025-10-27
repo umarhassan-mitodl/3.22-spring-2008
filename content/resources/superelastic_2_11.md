@@ -4,8 +4,6 @@ description: Image accompanying a course assignment.
 file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/57da446ecd04017f5e0cb3adb4d4079e_superelastic_2_11.jpg
 file_size: 1773
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

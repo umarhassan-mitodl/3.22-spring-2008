@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -72,13 +70,13 @@ We can elaborate on the validity of our assumption that the dust particles form 
 {{< anchor "ref" >}}{{< /anchor >}}References
 ---------------------------------------------
 
-\[1\] [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_Page).
+\[1\] {{% resource_link "8e6d5b9d-fb2d-44c7-ab4b-3a750082e3f6" "Wikimedia Commons" %}}.
 
-\[2\] [Composition for Ceramic Substrate and Ceramic Circuit Component](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2014196348).
+\[2\] {{% resource_link "989d7505-8318-406d-9ef9-94977260735e" "Composition for Ceramic Substrate and Ceramic Circuit Component" %}}.
 
 \[3\] Silva, Emilio C. C. M., et al. "Size Effects on the Stiffness of Silica Nanowires." _Small_ 2 (2006): 239-243.
 
-\[4\] [The A to Z of Materials](http://www.azom.com/).
+\[4\] {{% resource_link "07e0af4b-2b6b-4ac4-af28-b25d0bf583e5" "The A to Z of Materials" %}}.
 
 \[5\] Dikin, D. A., et al. "Resonance Vibration of Amorphous SiO{{< sub "2" >}} Nanowires Driven by Mechanical or Electrical Field Excitation." _Journal of Applied Physics_ 93 (2003): 226-230.
 

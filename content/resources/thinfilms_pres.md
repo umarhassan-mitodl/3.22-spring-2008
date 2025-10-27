@@ -5,8 +5,6 @@ description: "Example of student work: final presentation for the group project,
 file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/653f08fcd4a9c5fc6cee0c38fcfd02c8_thinfilms_pres.pdf
 file_size: 37574
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

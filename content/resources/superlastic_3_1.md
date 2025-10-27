@@ -4,8 +4,6 @@ description: Image accompanying a course assignment.
 file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/254502707cbc569c0deb5dd65ae0077f_superlastic_3_1.jpg
 file_size: 8536
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

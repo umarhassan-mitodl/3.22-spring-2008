@@ -4,8 +4,6 @@ description: Problem set on the mechanical behavior of materials.
 file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/71a3692931e575796259cbd932fe3482_ps6.pdf
 file_size: 113832
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
