@@ -45,7 +45,7 @@ And the stress-strain curve which contains unloading is this.
 
  
 
-Image removed due to copyright restrictions. Please see [stress-strain curve](http://en.wikipedia.org/wiki/Stress-strain_curve).
+Image removed due to copyright restrictions. Please see {{% resource_link "d66b6904-e08a-46f3-88ce-da035eb52d12" "stress-strain curve" %}}.
 
  
 
@@ -55,13 +55,13 @@ Here is the phase diagram of Ni-Ti, superelastic alloy and the crystal structure
 
  
 
-Image removed due to copyright restrictions. Please see [phase diagram of Ni-Ti](https://www.researchgate.net/figure/1-Binary-phase-diagram-of-NiTi-alloys_fig3_327619762).
+Image removed due to copyright restrictions. Please see {{% resource_link "036e603f-fe90-47b8-a843-f1e31800ff05" "phase diagram of Ni-Ti" %}}.
 
  
 
 {{< resource uuid="df110d60-88e4-0182-5337-3ad7886c5b37" >}}
 
-Courtesy Elsevier, Inc., [Science Direct](http://www.sciencedirect.com/). Used with permission. \[[2](#ref)\]
+Courtesy Elsevier, Inc., {{% resource_link "fac521ed-265b-44fc-9a7a-68ff099ffba7" "Science Direct" %}}. Used with permission. \[[2](#ref)\]
 
  
 
