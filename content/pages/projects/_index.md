@@ -3,8 +3,6 @@ content_type: page
 description: This section provides information the course project along with samples
   of student work.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
